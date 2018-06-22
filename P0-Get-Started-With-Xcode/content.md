@@ -5,15 +5,15 @@ slug: installing-xcode
 
 This tutorial will guide you through installing Xcode and get you started on your iOS developer journey.
 
-You should be on macOS Sierra (10.13.2+) and have Xcode 8.2+. **DO NOT INSTALL ANY DEVELOPER PREVIEWS OF OS X, iOS, OR Xcode!!!**
+You should be on macOS High Sierra (10.13.4+) and have Xcode 9.4+. **DO NOT INSTALL ANY DEVELOPER PREVIEWS OF OS X, iOS, OR Xcode!!!**
 
 Let's get our tools set up.
 
 # Checking macOS
 
-Click the 🍎 button on the top left of your Mac screen and click `About this Mac`. It should say `macOS High Sierra` and `Version 10.13.2`. If it does not say `macOS High Sierra`, go [here](https://itunes.apple.com/us/app/macos-high-sierra/id1246284741?mt=12) and install High Sierra.
+Click the 🍎 button on the top left of your Mac screen and click `About this Mac`. It should say `macOS High Sierra` and `Version 10.13.4`. If it does not say `macOS High Sierra`, go [here](https://itunes.apple.com/us/app/macos-high-sierra/id1246284741?mt=12) and install High Sierra.
 
-If it does not say `Version 10.13.2` but _does_ say `macOS High Sierra`, click the 🍎 button on the top left of your Mac screen and click `App Store`. Install the updates!
+If it does not say `Version 10.13.4` but _does_ say `macOS High Sierra`, click the 🍎 button on the top left of your Mac screen and click `App Store`. Install the updates!
 
 # Installing Xcode
 
